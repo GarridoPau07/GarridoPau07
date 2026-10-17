@@ -7,8 +7,8 @@
   <p>Apasionado por el desarrollo backend, las arquitecturas limpias y el diseño de aplicaciones móviles eficientes.</p>
   
   <p>
-    <a href="https://github.com/PauGarrido19" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-PauGarrido19-181717?style=for-the-badge&logo=github" />
+    <a href="https://github.com/GarridoPau07" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-GarridoPau07-181717?style=for-the-badge&logo=github" />
     </a>
   </p>
 </div>
