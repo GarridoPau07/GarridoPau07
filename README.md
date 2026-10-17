@@ -18,17 +18,21 @@
 ### 🛠️ Tecnologías conocidas 💻
 
 <div align="center">
-  <!-- Aquí tienes tus tecnologías principales con el estilo de iconos oscuros -->
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,android,studio,docker,aws,git,github,sqlite,mysql,linux,vscode,figma&theme=dark" />
 </div>
 
 ---
 
-### 📂 Proyectos Destacados
+### 📂 Algunos proyectos 👨‍💻
 
-* **[GameVault](https://github.com/PauGarrido19)** — API backend desarrollada con *Java Spring Boot* y *Maven*, documentada con OpenAPI y preparada para entornos con contenedores.
-* **App de eSports** — Aplicación móvil nativa en *Kotlin* construida con *Jetpack Compose*, con diseños UX/UI propios en *Figma*.
-* **Odoo ERP** — Configuración, despliegue e implantación de Odoo mediante *Docker* sobre servidores *AWS (EC2)*.
+<div align="center">
+
+| Proyecto 1 | Proyecto 2 |
+| :---: | :---: |
+| [![GameVault](https://img.shields.io/badge/GameVault-API%20Spring%20Boot-blue?style=for-the-badge&logo=java)](https://github.com/PauGarrido19) <br> **GameVault** <br> Backend robusto en Java con Spring Boot y Maven. | [![App eSports](https://img.shields.io/badge/App-Kotlin%20%2F%20Compose-purple?style=for-the-badge&logo=kotlin)](https://github.com/PauGarrido19) <br> **App de eSports** <br> App móvil nativa con Jetpack Compose y UI en Figma. |
+| **[🔗 GitHub](https://github.com/PauGarrido19)** | **[🔗 GitHub](https://github.com/PauGarrido19)** |
+
+</div>
 
 ---
 
