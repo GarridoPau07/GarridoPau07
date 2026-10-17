@@ -10,24 +10,16 @@
     <a href="https://github.com/PauGarrido19" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-PauGarrido19-181717?style=for-the-badge&logo=github" />
     </a>
-    <!-- Puedes añadir aquí tu LinkedIn si lo tienes -->
-    <!-- <a href="TU_ENLACE_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin" /></a> -->
   </p>
 </div>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías conocidas 💻
 
 <div align="center">
-
-| Categoría | Tecnologías |
-| :---: | :--- |
-| **Lenguajes** | `Java` `Kotlin` `SQL` |
-| **Backend** | `Spring Boot` `Maven` `OpenAPI / Swagger` |
-| **Móvil** | `Android` `Jetpack Compose` `Figma` |
-| **DevOps & DB** | `Docker` `AWS (EC2)` `Git` `GitHub` |
-
+  <!-- Aquí tienes tus tecnologías principales con el estilo de iconos oscuros -->
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,android,studio,docker,aws,git,github,sqlite,mysql,linux,vscode,figma&theme=dark" />
 </div>
 
 ---
