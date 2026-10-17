@@ -1,26 +1,57 @@
-### Hola 👋, soy Pau
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola,%20soy%20Pau!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por el desarrollo de software backend y mobile. Actualmente enfocado en construir APIs robustas, aplicaciones móviles eficientes y entornos contenerizados.
+<div align="center">
+  <h3>🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
+  <p>Apasionado por el desarrollo backend, las arquitecturas limpias y el diseño de aplicaciones móviles eficientes.</p>
+  
+  <p>
+    <a href="https://github.com/PauGarrido19" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-PauGarrido19-181717?style=for-the-badge&logo=github" />
+    </a>
+    <!-- Puedes añadir aquí tu LinkedIn si lo tienes -->
+    <!-- <a href="TU_ENLACE_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin" /></a> -->
+  </p>
+</div>
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** Java, Kotlin, SQL
-* **Backend & Frameworks:** Spring Boot, Maven, OpenAPI / Swagger
-* **Móvil:** Android, Jetpack Compose, Figma (Diseño UI/UX)
-* **DevOps & Bases de Datos:** Docker, AWS (EC2), Git, GitHub, Bases de datos relacionales
+<div align="center">
+
+| Categoría | Tecnologías |
+| :---: | :--- |
+| **Lenguajes** | `Java` `Kotlin` `SQL` |
+| **Backend** | `Spring Boot` `Maven` `OpenAPI / Swagger` |
+| **Móvil** | `Android` `Jetpack Compose` `Figma` |
+| **DevOps & DB** | `Docker` `AWS (EC2)` `Git` `GitHub` |
+
+</div>
 
 ---
 
 ### 📂 Proyectos Destacados
 
-* **[GameVault](https://github.com/PauGarrido19)** *(O pon el enlace directo al repo)*: Backend desarrollado con Java Spring Boot y Maven, documentado con OpenAPI y preparado para despliegue con Dev Containers.
-* **App de eSports (Kotlin):** Aplicación móvil nativa construida con Jetpack Compose, perfiles de jugadores y soporte para modo noche.
-* **Odoo ERP Deployment:** Configuración e implantación de Odoo mediante Docker y AWS EC2.
+* **[GameVault](https://github.com/PauGarrido19)** — API backend desarrollada con *Java Spring Boot* y *Maven*, documentada con OpenAPI y preparada para entornos con contenedores.
+* **App de eSports** — Aplicación móvil nativa en *Kotlin* construida con *Jetpack Compose*, con diseños UX/UI propios en *Figma*.
+* **Odoo ERP** — Configuración, despliegue e implantación de Odoo mediante *Docker* sobre servidores *AWS (EC2)*.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas y Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauGarrido19&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PauGarrido19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauGarrido19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauGarrido19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
