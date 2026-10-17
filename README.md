@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hola 👋, soy Pau
 
-<!--
-**GarridoPau07/GarridoPau07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por el desarrollo de software backend y mobile. Actualmente enfocado en construir APIs robustas, aplicaciones móviles eficientes y entornos contenerizados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y Herramientas
+
+* **Lenguajes:** Java, Kotlin, SQL
+* **Backend & Frameworks:** Spring Boot, Maven, OpenAPI / Swagger
+* **Móvil:** Android, Jetpack Compose, Figma (Diseño UI/UX)
+* **DevOps & Bases de Datos:** Docker, AWS (EC2), Git, GitHub, Bases de datos relacionales
+
+---
+
+### 📂 Proyectos Destacados
+
+* **[GameVault](https://github.com/PauGarrido19)** *(O pon el enlace directo al repo)*: Backend desarrollado con Java Spring Boot y Maven, documentado con OpenAPI y preparado para despliegue con Dev Containers.
+* **App de eSports (Kotlin):** Aplicación móvil nativa construida con Jetpack Compose, perfiles de jugadores y soporte para modo noche.
+* **Odoo ERP Deployment:** Configuración e implantación de Odoo mediante Docker y AWS EC2.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauGarrido19&show_icons=true&theme=radical)
